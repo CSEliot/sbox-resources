@@ -126,7 +126,7 @@ FacePunch DOES provide official support for running [standalone servers](https:/
 
 ### Community Linux Guides and Resources
 [How to Run Editor Free, No Steam, Yes Linux](https://pastebin.com/0nzDivED)  
-The [Getting Started Channel](https://discord.com/channels/1465882396082704582/1465893126265897164) in Linux Discord.  
+The [Getting Started Channel](https://discord.com/channels/1465882396082704582/1465893126265897164) in [Linux Discord](https://discord.gg/haZt7xbmBT).  
 This [thread on the forums](https://sbox.game/f/editor/1363/1/#post9).
 
 # Community
@@ -146,6 +146,9 @@ Russian language community for s&box developers and players.
 ### Forums
 [Sbox Forums](https://sbox.game/f)  
 It's the official forums. Requires Steam Account to post.
+
+### Unity Developers
+The S&Box Editor is astonishingly similar to Unity. Also it uses the latest c# and dotnet 10. Given this, curious Unity devs can find each other in the [UNITY REFUGEES THREAD](https://discord.com/channels/833983068468936704/1498057166270107778) found in the [Official Discord](https://discord.com/invite/sbox)
 
 # Contributor Guidelines
 
