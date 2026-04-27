@@ -1,7 +1,7 @@
 # sbox-resources
 
 This list is not exhaustive but we're going to try anyway. Our #1 goal is to keep this simple. 
-As this is a github repo, contributions are encouraged and welcome!
+As this is a github repo, contributions are encouraged and welcome! Think of this as less of a massive "How To" and more of a Subway Map. 
 
 Credits:
 FreakOnALeash  
@@ -50,8 +50,9 @@ The Sandbox Team <3
 
 
 # Contributor Guidelines
-Please no emojis.
-Keep it to mostly links.
+Please no emojis.  
+Keep it to mostly links.  
+Maximum 3 lines or 3 sentences per header, whicherver is lesser.  
 
 # Contact
 DM the repo creator @cseliot via discord
