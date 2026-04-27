@@ -49,5 +49,9 @@ The Sandbox Team <3
 {linux guides/links and basic info go here}
 
 
+# Contributor Guidelines
+Please no emojis.
+Keep it to mostly links.
 
-
+# Contact
+DM the repo creator @cseliot via discord
