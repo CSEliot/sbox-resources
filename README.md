@@ -150,6 +150,12 @@ It's the official forums. Requires Steam Account to post.
 ### Unity Developers
 The S&Box Editor is astonishingly similar to Unity. Also it uses the latest c# and dotnet 10. Given this, curious Unity devs can find each other in the [UNITY REFUGEES THREAD](https://discord.com/channels/833983068468936704/1498057166270107778) found in the [Official Discord](https://discord.com/invite/sbox)
 
+# Generative AI & LLMs
+FacePunch has no official stance on AI usage.
+### Discuss
+While artists are [receiving payouts](https://www.npr.org/2025/09/05/nx-s1-5529404/anthropic-settlement-authors-copyright-ai) for the theft of their work, other orgs are releasing [open-source](localLlama) models. [Feeding documentation](https://github.com/CSEliot/sbox-get-docs-api) to your very own local llm can be an ethical way to help yourself learn S&Box. Join [this thread](https://discord.com/channels/833983068468936704/1494696448325849261) on the [Official Discord](https://discord.com/invite/sbox) for discussing ai.
+
+
 # Contributor Guidelines
 
 Please no emojis and keep it to mostly links.  
