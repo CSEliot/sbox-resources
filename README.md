@@ -134,7 +134,7 @@ Icons and Sound FX resources moved to Other Helpful Links section.
 [FacePunch Open FPS](https://github.com/Facepunch/sbox-hc1) | [Clover Meadows](https://github.com/MrBrax/clover_meadows_sbox) | [Fortwars](https://github.com/Nolankicks/Fortwars)  
 [Grubs](https://github.com/apetavern/grubs) | [Voxel-Party](https://github.com/DrakeFruit/Voxel-Party) | [DarkRP Sandbox](https://github.com/sousou63/DarkRP)  
 
-And more! Check out [Awesome sboxl](https://github.com/Ryhon0/awesome-sboxl).
+And more! Check out [Awesome sbox](https://github.com/Ryhon0/awesome-sbox).
 
 ##### My Summer Cottage
 This is one of the premier standalone titles releasing alongside S&Box at launch. Did you know it was first a game jam game? [Here's the github repo.](https://github.com/Small-Fish-Dev/My-Summer-Cottage-Jam)
@@ -144,7 +144,8 @@ This is one of the premier standalone titles releasing alongside S&Box at launch
 ### Helpful Beginner Videos
 [Fish School Beginner Playlist](https://www.youtube.com/watch?v=g-ZJFnWPawY&list=PLIcPBTNc7_9oFEEoHSCuPrdGQnU27yLuj) | [Trigger/Collision Listeners](https://youtu.be/mgZY9Z4dhVg)  
 [How to make UI](https://youtu.be/4J37tgZ1Qmo) | [Property Attributes](https://youtu.be/gY5PgW5pH90)  
-[First S&box Game](https://youtu.be/7ClonlOIMFE) | [Async Tasks Tutorial](https://www.youtube.com/watch?v=sZPA6Bj_k9g)
+[First S&box Game](https://youtu.be/7ClonlOIMFE) | [Async Tasks Tutorial](https://www.youtube.com/watch?v=sZPA6Bj_k9g)  
+[Make a Game in S&box with No Experience Playlist](https://www.youtube.com/watch?v=PmB5ADahw-Y&list=PLBXcZnvT6oSQDv0hrgFsncGPAS0mj609P&index=1)
 
 ### Other Helpful Channels
 [Brackey's Channel](https://www.youtube.com/@Brackeys) | [Spaderdabomb](https://www.youtube.com/@spaderdabomb)  
