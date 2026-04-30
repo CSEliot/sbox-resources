@@ -160,7 +160,7 @@ Editor icons and sound effects for game development.
 
 # Linux
 
-There is no ["official"](https://github.com/Facepunch/sbox-public/issues/8462) statement by FacePunch on Linux support. Unofficially, everyone uses Proton via Steam and FacePunch is [open to PRs](https://github.com/Facepunch/sbox-public/issues/2690) to the public repo that involve fixing things for better Proton Support.
+There is no ["official"](https://github.com/Facepunch/sbox-public/issues/8462) statement by FacePunch on Linux support ([except for dedicated servers](https://sbox.game/dev/doc/networking/dedicated-servers/)). Unofficially, everyone uses Proton via Steam and FacePunch is [open to PRs](https://github.com/Facepunch/sbox-public/issues/2690) to the public repo that involve fixing things for better Proton Support.
 
 ### Linux Server
 FacePunch DOES provide official support for running [standalone servers](https://sbox.game/dev/doc/networking/dedicated-servers/). steamcmd is recommended.  
@@ -192,10 +192,11 @@ It's the official forums. Requires Steam Account to post.
 The S&Box Editor is astonishingly similar to Unity. Also it uses the latest c# and dotnet 10. Given this, curious Unity devs can find each other in the [UNITY REFUGEES THREAD](https://discord.com/channels/833983068468936704/1498057166270107778) found in the [Official Discord](https://discord.com/invite/sbox)
 
 # Generative AI & LLMs
-FacePunch has no official stance on AI usage.
+~~FacePunch has no official stance on AI usage.~~
+https://sbox.game/news/post-release#ai-slop
+
 ### Discuss
 While artists are [receiving payouts](https://www.npr.org/2025/09/05/nx-s1-5529404/anthropic-settlement-authors-copyright-ai) for the theft of their work, other orgs are releasing [open-source](localLlama) models. [Feeding documentation](https://github.com/CSEliot/sbox-get-docs-api) to your very own local llm can be an ethical way to help yourself learn S&Box. Join [this thread](https://discord.com/channels/833983068468936704/1494696448325849261) on the [Official Discord](https://discord.com/invite/sbox) for discussing ai.
-
 
 # Contributor Guidelines
 
