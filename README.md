@@ -24,7 +24,48 @@ The Sandbox Team <3
 
 # Index
 
-{Index Goes Here}
+## Main Sections
+- [Credits](#credits)
+- [First Things First, Official Documentation Links](#first-things-first-official-documentation-links)
+- [Setup](#setup)
+- [Game](#game)
+- [Editor](#editor)
+- [Youtubers, Playlists, Videos](#youtubers-playlists-videos)
+- [Other Helpful Links](#other-helpful-links)
+- [Linux](#linux)
+- [Community](#community)
+- [Generative AI & LLMs](#generative-ai--llms)
+
+## Setup Sub-sections
+- [IDE Setup](#ide-setup)
+- [Learn C](#learn-c)
+- [Learn Razor](#learn-razor)
+- [Learn Flexbox](#learn-flexbox)
+- [Project Types](#project-types)
+
+## Editor Sub-sections
+- [Launching](#launching)
+- [Tips & Tricks](#tips-tricks)
+- [Open Source Projects](#open-source-projects)
+- [My Summer Cottage](#my-summer-cottage)
+
+## Youtubers, Playlists, Videos Sub-sections
+- [Helpful Beginner Videos](#helpful-beginner-videos)
+- [Other Helpful Channels](#other-helpful-channels)
+
+## Linux Sub-sections
+- [Linux Server](#linux-server)
+- [Community Linux Guides and Resources](#community-linux-guides-and-resources)
+
+## Community Sub-sections
+- [Linux Discord](#linux-discord)
+- [French Discord](#french-discord)
+- [Russian Discord](#russian-discord)
+- [Forums](#forums)
+- [Unity Developers](#unity-developers)
+
+## Generative AI & LLMs Sub-sections
+- [Discuss](#discuss)
 
 # First Things First, Official Documentation Links
 
