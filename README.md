@@ -160,7 +160,7 @@ Editor icons and sound effects for game development.
 
 # Linux
 
-There is no ["official"](https://github.com/Facepunch/sbox-public/issues/8462) statement by FacePunch on Linux support ([except for dedicated servers](https://sbox.game/dev/doc/networking/dedicated-servers/)). Unofficially, everyone uses Proton via Steam and FacePunch is [open to PRs](https://github.com/Facepunch/sbox-public/issues/2690) to the public repo that involve fixing things for better Proton Support.
+Start at this unofficial community built [SBox-Linux-Book](https://vincetheprogrammer.github.io/sbox-linux-book). There is no ["official"](https://github.com/Facepunch/sbox-public/issues/8462) statement by FacePunch on Linux support ([except for dedicated servers](https://sbox.game/dev/doc/networking/dedicated-servers/)). Unofficially, everyone uses Proton via Steam and FacePunch is [open to PRs](https://github.com/Facepunch/sbox-public/issues/2690) to the public repo that involve fixing things for better Proton Support.
 
 ### Linux Server
 FacePunch DOES provide official support for running [standalone servers](https://sbox.game/dev/doc/networking/dedicated-servers/). steamcmd is recommended.  
