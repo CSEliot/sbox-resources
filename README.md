@@ -143,8 +143,7 @@ This is one of the premier standalone titles releasing alongside S&Box at launch
 
 ### Helpful Beginner Videos
 [Fish School Beginner Playlist](https://www.youtube.com/watch?v=g-ZJFnWPawY&list=PLIcPBTNc7_9oFEEoHSCuPrdGQnU27yLuj) | [Trigger/Collision Listeners](https://youtu.be/mgZY9Z4dhVg)  
-[How to make UI](https://youtu.be/4J37tgZ1Qmo) | [Property Attributes](https://youtu.be/gY5PgW5pH90)  
-[First S&box Game](https://youtu.be/7ClonlOIMFE) | [Async Tasks Tutorial](https://www.youtube.com/watch?v=sZPA6Bj_k9g)  
+[How to make UI](https://youtu.be/4J37tgZ1Qmo) | [First S&box Game](https://youtu.be/7ClonlOIMFE)  
 [Make a Game in S&box with No Experience Playlist](https://www.youtube.com/watch?v=PmB5ADahw-Y&list=PLBXcZnvT6oSQDv0hrgFsncGPAS0mj609P&index=1)
 
 ### Other Helpful Channels
