@@ -127,8 +127,9 @@ Interactive game for learning CSS Flexbox layout system.
 Launch via Steam Tools "s&box editor" or run `sbox-dev.exe` from game folder.
 
 ### Tips & Tricks
-[Custom Components](https://pastebin.com/Twif7gng) | [HideInGame bool flag](https://sbox.game/api/Sandbox.MeshComponent/HideInGame)  
-Icons and Sound FX resources moved to Other Helpful Links section.
+[Custom Components](https://pastebin.com/Twif7gng) | [HideInGame bool flag](https://sbox.game/api/Sandbox.MeshComponent/HideInGame)
+Icons and Sound FX resources moved to Other Helpful Links section.  
+[WhiteList Limitations](https://pastebin.com/B3Ch6HsG) Doing anything BEYOND the WhiteList, and you can't upload to the S&Box Game Platform.  
 
 ### Open Source Projects
 [FacePunch Open FPS](https://github.com/Facepunch/sbox-hc1) | [Clover Meadows](https://github.com/MrBrax/clover_meadows_sbox) | [Fortwars](https://github.com/Nolankicks/Fortwars)  
