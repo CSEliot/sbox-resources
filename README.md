@@ -45,7 +45,7 @@ The Sandbox Team <3
 
 ## Editor Sub-sections
 - [Launching](#launching)
-- [Tips & Tricks](#tips-tricks)
+- [Tips & Tricks](#tips-and-tricks)
 - [Open Source Projects](#open-source-projects)
 - [My Summer Cottage](#my-summer-cottage)
 
@@ -126,7 +126,7 @@ Interactive game for learning CSS Flexbox layout system.
 [Official Getting Started Guide + Docs](https://sbox.game/dev/doc/getting-started/)  
 Launch via Steam Tools "s&box editor" or run `sbox-dev.exe` from game folder.
 
-### Tips & Tricks
+### Tips And Tricks
 [Custom Components](https://pastebin.com/Twif7gng) | [HideInGame bool flag](https://sbox.game/api/Sandbox.MeshComponent/HideInGame)
 Icons and Sound FX resources moved to Other Helpful Links section.  
 [WhiteList Limitations](https://pastebin.com/B3Ch6HsG) Doing anything BEYOND the WhiteList, and you can't upload to the S&Box Game Platform.  
