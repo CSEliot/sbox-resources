@@ -1,6 +1,6 @@
-# sbox-resources
+# The S&Box Community Subway Map - An Index
 
-This list is not exhaustive but we're going to try anyway. Our #1 goal is to keep this simple.  
+This list is not exhaustive but we're going to try anyway. Our #1 goal is to keep this simple. You know how a street map or subway map can generally get you where you want to go? This is that.
 As this is a github repo, contributions are encouraged and welcome! Think of this as less of a massive "How To" and more of a Subway Map.
 
 # Credits
