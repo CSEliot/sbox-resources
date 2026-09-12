@@ -165,7 +165,25 @@ Editor icons and sound effects for game development.
 
 # Linux
 
-Start at this unofficial community built [SBox-Linux-Book](https://vincetheprogrammer.github.io/sbox-linux-book). There is no ["official"](https://github.com/Facepunch/sbox-public/issues/8462) statement by FacePunch on Linux support ([except for dedicated servers](https://sbox.game/dev/doc/networking/dedicated-servers/)). Unofficially, everyone uses Proton via Steam and FacePunch is [open to PRs](https://github.com/Facepunch/sbox-public/issues/2690) to the public repo that involve fixing things for better Proton Support.
+### Linux Game / Client
+
+Now officially supported. Issues can be reported either in community discords (see: [Community](#community)) or creating an [issue](https://github.com/Facepunch/sbox-public/issues).
+
+### Linux Editor
+
+Now officially supported. Issues can be reported same as Game Client (see above).
+
+#### To Get Started
+
+##### Windows + Proton
+The Proton+.exe combo still works fine, if you can't get your steam to download the .exe files, [follow these instructions](https://developer.valvesoftware.com/wiki/SteamCMD#Cross-Platform_Installation).
+Start at this unofficial community built [SBox-Linux-Book](https://vincetheprogrammer.github.io/sbox-linux-book). FacePunch is [open to PRs](https://github.com/Facepunch/sbox-public/issues/2690) to the public repo that involve fixing things for better Proton Support.
+
+##### Native Linux
+
+1. Clone and build [Ampersand](https://github.com/Arcevalis/ampersand) an unofficial community launcher that helps you get your build and execution over the finish line.
+2. Clone and build this [unofficial community fork](https://github.com/Arcevalis/sbox-public) that's up to date w latest while containing various temporary fixes.
+3. Find and join [this discord thread](https://discord.com/channels/833983068468936704/1317157791710056610) in official sbox discord.
 
 ### Linux Server
 FacePunch DOES provide official support for running [standalone servers](https://sbox.game/dev/doc/networking/dedicated-servers/). steamcmd is recommended.  
