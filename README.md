@@ -96,6 +96,9 @@ The Sandbox Team <3
 
 # Setup
 
+### Development Environment
+[Templates, Documentation, API, Locally, an All-In-One Folder Org + Scripts for Windows and/or Linux
+](https://github.com/CSEliot/SBoxDevelopmentEnvironment)
 ### IDE Setup
 [Visual Studio](https://visualstudio.microsoft.com/) | [VS Code](https://code.visualstudio.com/) | [Rider](https://www.jetbrains.com/rider/)  
 3 officially supported IDEs. Change via Edit > Preferences menu.  
