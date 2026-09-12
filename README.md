@@ -5,6 +5,7 @@ As this is a github repo, contributions are encouraged and welcome! Think of thi
 
 # Credits
 
+Arcevalis
 FreakOnALeash  
 DoctorLaw  
 DrakeFruit  
